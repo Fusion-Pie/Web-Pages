@@ -1,0 +1,86 @@
+#main
+{
+    background-color: rgb(35, 37, 49);
+}
+
+#a1
+{
+    font-family: monospace;
+    font-size: 18px;
+    margin-right: 10px;
+    color:rgb(248, 252, 255);
+    text-decoration: none;  
+    margin-left: 95%;
+    margin-top: 10px;
+}
+
+#d1
+{
+    text-align: center;
+}
+
+#p1
+{
+    font-size: 45px;
+    font-family: monospace;
+    color: rgb(248, 252, 255);
+    margin-bottom: 0;
+}
+
+#p2
+{
+    font-size: 45px;
+    font-family: monospace;
+    color: rgb(207, 93, 73);
+    margin-top: 10px;
+}
+
+#form
+{
+    height: 250px;
+    width: 370px;
+    background-color: rgb(207, 93, 73);
+    border-radius: 20px;
+    padding: 15px;
+    margin-left: 560px;
+}
+
+#l1
+{
+    font-size: 20px;
+    font-family: monospace;
+    color: rgb(35, 37, 49);
+    margin-left: 10px;
+}
+
+#t1
+{
+    border: 0;
+    border-bottom: 1px solid rgb(64, 64, 72);
+    width: 320px;
+    background-color: rgb(207, 93, 73);
+    margin-top: 8px;
+    margin-left: 10px;
+    font-family: monospace;
+    color: rgb(64, 64, 72);
+}
+
+#s1
+{
+    background-color: rgb(207, 93, 73);
+    border: 1px solid rgb(64, 64, 72);
+    margin-left: 10px;
+    border-radius: 5px;
+}
+
+#btn1
+{
+    background-color: rgb(35, 37, 49);
+    color: rgb(248, 252, 255);
+    border: 0;
+    font-size: 13px;
+    font-family: monospace;
+    height: 25px;
+    width: 70px;
+    border-radius: 20px;
+}
